@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="YourCloud_Implementation/Implementation_with_cloudsim/examples"/>
+	<classpathentry kind="src" path="YourCloud_Implementation/Implementation_with_cloudsim/sources"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/cloudsim-3.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/cloudsim-examples-3.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/cloudsim-examples-3.0.3.jar"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="YourCloud_Implementation/Implementation_with_cloudsim/jars/commons-math3-3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="YourCloud_Implementation/Implementation_with_cloudsim/bin"/>
+</classpath>
